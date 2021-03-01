@@ -1,0 +1,23 @@
+.panda-slide, .panda-foot{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.chatagories img{
+    width: 100px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-footer{
+    border: 0;
+    background-color: white;
+    padding-bottom: 20px;
+}
+.button-bg{
+    background-color: #ff3b88;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.price-color{
+    color: #ff3b88;
+}
